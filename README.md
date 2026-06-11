@@ -5,7 +5,7 @@ I build end-to-end data pipelines, warehouses, and dashboards using Python and S
 ### Featured Projects
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [Toronto Fleet & Ferry Performance Dashboard](https://github.com/Leeaaronn/Toronto-anchored-City-of-Toronto-Fleet-Ferry-Performance-Dashboard) | Audit-grounded analytics on 279,000+ records across a 4,600+ vehicle fleet and a decade of ferry ticketing — star-schema pipeline, Power BI dashboard, 78 tests, 34 disposal candidates surfaced via a cross-dataset availability ⋈ utilization join | Python, SQL, DuckDB, Pandas, Pandera, Power BI, Pytest |
+| [Toronto Fleet & Ferry Performance Dashboard](https://github.com/Leeaaronn/Toronto-anchored-City-of-Toronto-Fleet-Ferry-Performance-Dashboard) | Modeling 4,600+ city vehicles and a decade of ferry data into a star-schema Power BI dashboard, surfacing 34 disposal candidates from a cross-dataset availability and utilization join | Python, SQL, DuckDB, Pandas, Pandera, Power BI, Pytest |
 | [SGV Rent-to-Income Tracker](https://github.com/Leeaaronn/SGV-Rent-to-Income-RTI-Tracker) | Data warehouse tracking housing affordability across 17 SGV ZIP codes with 1,100+ monthly observations and a Power BI dashboard | Python, SQL, DuckDB, Pandas, Power BI, Pytest |
 | [LA Metro Ridership Impact Analysis](https://github.com/Leeaaronn/metro-impact-analysis) | Causal inference study estimating +38,745 riders/day from the Gold Line extension using difference-in-differences regression | Python, SciPy, Statsmodels, Seaborn, Pytest |
 | [How Clean Is The 626?](https://github.com/Leeaaronn/How-Clean-Is-The-626) | Scoring 600+ SGV restaurants from 40,000+ LA County health inspection records in a star-schema data warehouse | Python, SQL, DuckDB, Parquet, Streamlit, Pytest, GitHub Actions |
@@ -25,4 +25,4 @@ I build end-to-end data pipelines, warehouses, and dashboards using Python and S
 - 📫 lee.aaron.dev@gmail.com
 ---
 <a href="http://www.github.com/Leeaaronn"><img src="https://github-readme-stats.vercel.app/api?username=Leeaaronn&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Leeaaronn's GitHub stats" /></a>
-<a href="http://www.github.com/Leeaaronn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Leeaaronn&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/Leeaaronn"><img src="https://github-readme-stats.herokuapp.com/?user=Leeaaronn&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
