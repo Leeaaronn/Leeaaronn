@@ -2,9 +2,9 @@
 
 **Data Analyst | CS Graduate | MS Analytics @ Georgia Tech (starting Jan 2027)**
 
-I build data systems that solve real problems. Currently Data Analyst @ATC, where I found operations running on paper and whiteboards — so I built a [dashboard](https://github.com/Leeaaronn/Tutoring-Ops-Dashboard) to fix it.
+I build data systems that solve real problems. Currently Data Analyst @ATC, where I found operations running on paper and whiteboards : so I built a [dashboard](https://github.com/Leeaaronn/Tutoring-Ops-Dashboard) to fix it.
 
-Most recently I [measured which customers are actually worth emailing](https://github.com/Leeaaronn/Dont-Email-Everyone) — a randomized experiment across 64,000 customers showing that a targeted send earns 1.78x the store visits per email of a blanket campaign. [Try the app](https://dont-email-everyone-hillstrom.streamlit.app/).
+Most recently I [measured which customers are actually worth emailing](https://github.com/Leeaaronn/Dont-Email-Everyone) : a randomized experiment across 64,000 customers showing that a targeted send earns 1.78x the store visits per email of a blanket campaign. [Try the app](https://dont-email-everyone-hillstrom.streamlit.app/).
 
 I build end-to-end data pipelines, warehouses, and dashboards using Python and SQL.
 
